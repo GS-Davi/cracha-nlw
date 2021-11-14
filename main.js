@@ -1,4 +1,4 @@
-const linksSocialMedia = {
+const LinksSocialMedia = {
   github: 'GS-Davi',
   youtube: 'channel/UCguKVFVGEqp1fhg5nac3REA',
   facebook: 'Davi.Souza45',
