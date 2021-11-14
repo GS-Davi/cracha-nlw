@@ -1,9 +1,9 @@
-const LinksSocialMedia = {
-  github: 'DaavSouza',
+const linksSocialMedia = {
+  github: 'GS-Davi',
   youtube: 'channel/UCguKVFVGEqp1fhg5nac3REA',
   facebook: 'Davi.Souza45',
   instagram: 'davi.gsouza',
-  twitter: 'davssouza_'
+  twitter: 'davi_gsouza'
 }
 
 function changeSocialMediaLinks() {
